@@ -4,6 +4,13 @@ All notable changes to this marketplace are documented in this file.
 
 ## [Unreleased]
 
+## [3.4.2] - 2026-09-13
+
+### Changed
+
+- Updated ClaudeLint to 0.9.0 for local-settings permission validation and
+  current runtime dependencies. ClaudeLint now requires Node.js 22.13.0 or later.
+
 ## [3.4.1] - 2026-09-13
 
 ### Changed
