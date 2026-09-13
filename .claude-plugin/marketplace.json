@@ -1,7 +1,7 @@
 {
   "name": "patrick-plugins",
   "description": "Pat Dugan's versioned plugins for design and development.",
-  "version": "3.4.1",
+  "version": "3.4.2",
   "owner": {
     "name": "Pat Dugan",
     "email": "dugan.pat@gmail.com"
@@ -16,10 +16,10 @@
       "source": {
         "source": "github",
         "repo": "pdugan20/claudelint",
-        "ref": "v0.8.2"
+        "ref": "v0.9.0"
       },
       "description": "A comprehensive linter for Claude Code projects. Validates CLAUDE.md, skills, settings, hooks, MCP servers, plugins, and more.",
-      "version": "0.8.2",
+      "version": "0.9.0",
       "author": {
         "name": "Pat Dugan"
       },

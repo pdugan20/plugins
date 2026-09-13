@@ -1,6 +1,6 @@
 {
   "name": "patrick-plugins",
-  "version": "3.4.1",
+  "version": "3.4.2",
   "private": true,
   "description": "Versioned plugins for Claude Code and Codex.",
   "license": "MIT",
@@ -22,5 +22,10 @@
   "engines": {
     "node": ">=22.22.2"
   },
-  "packageManager": "npm@11.5.2"
+  "packageManager": "npm@11.5.2",
+  "overrides": {
+    "markdownlint-cli2": {
+      "smol-toml": "1.7.1"
+    }
+  }
 }
