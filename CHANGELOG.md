@@ -11,6 +11,11 @@ All notable changes to this marketplace are documented in this file.
 - Updated ClaudeLint to 0.9.0 for local-settings permission validation and
   current runtime dependencies. ClaudeLint now requires Node.js 22.13.0 or later.
 
+### Fixed
+
+- Patched the development Markdown linter's TOML parser to address malformed-input
+  denial of service ([GHSA-7w5x-hrqm-74c2](https://github.com/advisories/GHSA-7w5x-hrqm-74c2)).
+
 ## [3.4.1] - 2026-09-13
 
 ### Changed
