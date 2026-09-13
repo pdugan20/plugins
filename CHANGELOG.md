@@ -4,6 +4,13 @@ All notable changes to this marketplace are documented in this file.
 
 ## [Unreleased]
 
+## [3.4.1] - 2026-09-13
+
+### Changed
+
+- Updated ClaudeLint to 0.8.2 for settings hook validation, corrected plugin
+  update guidance, and current Claude Code schema coverage.
+
 ## [3.4.0] - 2026-07-31
 
 ### Changed
