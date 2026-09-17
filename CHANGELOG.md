@@ -4,6 +4,19 @@ All notable changes to this marketplace are documented in this file.
 
 ## [Unreleased]
 
+## [3.5.0] - 2026-09-16
+
+### Changed
+
+- Updated Patrick Skills to 3.3.0 for Claude Code and Codex.
+- Added `tune-mobile-client-performance` for causal SwiftUI, Swift, React
+  Native, and Expo performance diagnosis, and `integrate-app-intents` for
+  Apple App Intents system integrations.
+- `feature-delivery` now confirms that requested Superpowers or agent-team
+  capabilities are available before it selects those execution modes.
+- Added trust boundaries to `feature-spike`, `bootstrap-repository`, and
+  `review-mintlify-docs`.
+
 ## [3.4.2] - 2026-09-13
 
 ### Changed
@@ -111,7 +124,10 @@ All notable changes to this marketplace are documented in this file.
 - Added Mintlify Docs 0.3.2 with direct Skills CLI installation and hardened release checks.
 - Added cross-runtime catalog validation, install smoke tests, spelling checks, workflow-security analysis, and scheduled link validation.
 
-[unreleased]: https://github.com/pdugan20/plugins/compare/v3.4.0...HEAD
+[unreleased]: https://github.com/pdugan20/plugins/compare/v3.5.0...HEAD
+[3.5.0]: https://github.com/pdugan20/plugins/compare/v3.4.2...v3.5.0
+[3.4.2]: https://github.com/pdugan20/plugins/compare/v3.4.1...v3.4.2
+[3.4.1]: https://github.com/pdugan20/plugins/compare/v3.4.0...v3.4.1
 [3.4.0]: https://github.com/pdugan20/plugins/compare/v3.3.0...v3.4.0
 [3.3.0]: https://github.com/pdugan20/plugins/compare/v3.2.0...v3.3.0
 [3.2.0]: https://github.com/pdugan20/plugins/compare/v3.1.0...v3.2.0
