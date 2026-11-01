@@ -4,6 +4,8 @@ All notable changes to this marketplace are documented in this file.
 
 ## [Unreleased]
 
+## [3.6.0] - 2026-11-01
+
 ### Changed
 
 - Updated Patrick Skills to 3.5.0 for Claude Code and Codex. It adds `run-remote-dev-server` for private
@@ -131,7 +133,8 @@ All notable changes to this marketplace are documented in this file.
 - Added Mintlify Docs 0.3.2 with direct Skills CLI installation and hardened release checks.
 - Added cross-runtime catalog validation, install smoke tests, spelling checks, workflow-security analysis, and scheduled link validation.
 
-[unreleased]: https://github.com/pdugan20/plugins/compare/v3.5.0...HEAD
+[unreleased]: https://github.com/pdugan20/plugins/compare/v3.6.0...HEAD
+[3.6.0]: https://github.com/pdugan20/plugins/compare/v3.5.0...v3.6.0
 [3.5.0]: https://github.com/pdugan20/plugins/compare/v3.4.2...v3.5.0
 [3.4.2]: https://github.com/pdugan20/plugins/compare/v3.4.1...v3.4.2
 [3.4.1]: https://github.com/pdugan20/plugins/compare/v3.4.0...v3.4.1
