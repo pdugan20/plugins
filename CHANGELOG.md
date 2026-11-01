@@ -4,6 +4,13 @@ All notable changes to this marketplace are documented in this file.
 
 ## [Unreleased]
 
+### Changed
+
+- Updated Patrick Skills to 3.5.0 for Claude Code and Codex. It adds `run-remote-dev-server` for private
+  remote development previews, ships four labeled pilots (`capture-feature`, `review-deployment-constraints`,
+  `animate-watercolor`, and `repair-photographic-assets`), and adds isolated Codex evals and reviewed
+  skills.sh trust exceptions.
+
 ## [3.5.0] - 2026-09-16
 
 ### Changed
