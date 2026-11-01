@@ -40,10 +40,10 @@
       "source": {
         "source": "github",
         "repo": "pdugan20/skills",
-        "ref": "v3.3.0"
+        "ref": "v3.5.0"
       },
-      "description": "Portable skills for repository setup, code-native design exploration, design-system alignment and auditing, UI video analysis, mobile performance tuning, Apple system integration, feature validation and delivery, and technical documentation.",
-      "version": "3.3.0",
+      "description": "Portable skills for repository setup, private remote development, code-native design exploration, design-system alignment and auditing, UI video analysis, mobile performance tuning, Apple system integration, feature validation and delivery, and technical documentation.",
+      "version": "3.5.0",
       "author": {
         "name": "Pat Dugan"
       },
